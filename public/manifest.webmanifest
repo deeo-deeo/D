@@ -1,0 +1,23 @@
+{
+  "name": "D",
+  "short_name": "D",
+  "description": "D is a chat app.",
+  "theme_color": "#313338",
+  "background_color": "#1e1f22",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg"
+    }
+  ]
+}
